@@ -1,11 +1,12 @@
 ### abstract
 - simple react.js example for yeongseung
+- project-list / project pages
+
+### used packages
 - used https://github.com/facebook/create-react-app for boilerplate
 ```bash
 npx create-react-app app
 ```
-
-### used packages
 - react-router
 ```bash
 npm install react-router-dom
